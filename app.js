@@ -19,7 +19,7 @@ const User=require("./models/user.js")
 //
 // const url = "mongodb://127.0.0.1:27017/WanderLust";
 const dbUrl=process.env.ATLASDB_URL;
-const store =MongoStore.create({
+const store =mongoStore.create({
     mongoUrl:dbUrl,
     crypto:{
         secret:process.env.SECRET,
