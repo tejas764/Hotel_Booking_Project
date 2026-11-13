@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="Readme.md"><strong>OVERVIEW</strong></a> &nbsp; · &nbsp;
+  <a href="DEMO.md"><strong>DEMO & SCREENSHOTS</strong></a> &nbsp; · &nbsp;
+  <a href="DEMO.md#demo-setup"><strong>SETUP & DEPLOYMENT</strong></a>
+</p>
+
 # WanderLust — Accommodation Listings
 
 A full-stack accommodation-listing application built with Express, MongoDB, and EJS. Visitors can browse properties; authenticated users can manage listings and write reviews.
